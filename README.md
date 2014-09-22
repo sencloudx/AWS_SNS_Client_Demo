@@ -11,8 +11,8 @@ Easy to use, steps:
 arn:aws:sns:ap-southeast-1:237689230225:demo_sns
 
 3. Put the code to server you had, execute: npm start, then visit the site from Browser, you will get the log like below:
-> root@iZ28jcpiof0Z:~/subscribe/myapp# npm start
 
+> root@iZ28jcpiof0Z:~/subscribe/myapp# npm start
 > myapp@0.0.0 start /root/subscribe/myapp
 > node ./bin/www
 
